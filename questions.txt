@@ -1,0 +1,6 @@
+I. What Is the Bias-Variance Tradeoff, and How Does It Impact Model Performance?· 
+II. What Is the Difference Between Parametric and Non-Parametric Models?· 
+III. Can You Describe the Intuition Behind Cross-Entropy Loss and Why It’s Commonly Used in Classification Problems?· 
+IV. Why Is Feature Scaling Important, and When Should You Apply Standardization vs. Normalization?· 
+V. What Is the Difference Between Bagging and Boosting, and When Should You Use Each?· VI. What Are Precision and Recall, and How Do They Relate to the F1 Score?· 
+VII. What Is the Curse of Dimensionality, and How Does It Impact Model Selection?· Expert-Level Answers· Are You an Expert?
